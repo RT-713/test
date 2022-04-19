@@ -1,5 +1,8 @@
 b_route add
 add2
 b_route1
+<<<<<<< HEAD
 r1
 r2
+=======
+>>>>>>> parent of 32eb23a (r1)
